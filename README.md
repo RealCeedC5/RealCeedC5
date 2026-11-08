@@ -9,8 +9,6 @@
 
 </div>
 
-สวัสดีครับ ผม C5 เขียนสคริปต์ Lua กับ Luau เป็นหลัก รับงานคอมมิชชันเป็นช่วง ๆ เช็กสถานะได้ที่เว็บ
-
 Hi, I'm C5. I mostly script in Lua and Luau and take commissions when they're open. The status is on my site.
 
 ### Projects
